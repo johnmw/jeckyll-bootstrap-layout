@@ -1,0 +1,18 @@
+
+# Settings required by the default template
+# The title of your site name 
+name: Shroovy Blog
+url: www.shroovy.com
+author: John Williams
+email: john@miller-williams.name
+employment: Web Developer
+github: shroovy
+twitter: shroovy 
+
+#destination: ~/public/shroovy.com/blog
+
+baseurl: /blog
+
+permalink: :title/
+
+pygments: true
