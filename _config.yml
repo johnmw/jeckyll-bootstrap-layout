@@ -1,15 +1,15 @@
 
 # Settings required by the default template
 # The title of your site name 
-name: Shroovy Blog
-url: www.shroovy.com
-author: John Williams
-email: john@miller-williams.name
+name: Blog
+url: www.blog.com
+author: Blog Author
+email: email@email.com
 employment: Web Developer
-github: shroovy
-twitter: shroovy 
+github: username
+twitter: username
 
-#destination: ~/public/shroovy.com/blog
+#destination: ~/public/url.com/blog
 
 baseurl: /blog
 
